@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "cdkz-frontend"
+    "default": "cdkz-frontend",
+    "production": "cdkz-frontend-prod"
   }
 }
