@@ -16,7 +16,8 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React + Firebase --- this is prod</h1>
+      <h1>Vite + React + Firebase</h1>
+      <h1>Deployed to Production (When a code is merged into Main branch)</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
